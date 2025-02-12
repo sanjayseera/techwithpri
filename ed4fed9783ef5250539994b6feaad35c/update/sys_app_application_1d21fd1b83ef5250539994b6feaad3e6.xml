@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>Device management and process delivery</description>
+        <device_type>browser</device_type>
+        <hint>Device management and process delivery</hint>
+        <name/>
+        <order/>
+        <roles>x_1441594_techwith.device_management,x_1441594_techwith.dispatch_management,x_1441594_techwith.release_management,x_1441594_techwith.end_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-11 10:53:11</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1d21fd1b83ef5250539994b6feaad3e6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Techwithpri</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Techwithpri" source="x_1441594_techwith">ed4fed9783ef5250539994b6feaad35c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Techwithpri">ed4fed9783ef5250539994b6feaad35c</sys_scope>
+        <sys_update_name>sys_app_application_1d21fd1b83ef5250539994b6feaad3e6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-11 10:53:11</sys_updated_on>
+        <title>Techwithpri</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
